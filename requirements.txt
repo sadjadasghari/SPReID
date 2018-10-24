@@ -1,0 +1,4 @@
+chainer
+h5py
+opencv-python
+
