@@ -4,7 +4,8 @@ Pillow
 cython
 matplotlib
 scikit-image
-chainer
 h5py
 opencv-python
-
+cupy
+chainer
+chainercv
